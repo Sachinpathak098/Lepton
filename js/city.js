@@ -11,7 +11,7 @@
 		'Licuan-Baay','Luba','Malibcong','Manabo','Peñarrubia','Pidigan',
 		'Pilar','Sallapadan','San Isidro','San Juan','San Quintin','Tayum',
 		'Tineg','Tubo','Villaviciosa'
-		],
+		], 
 	'Agusan del Norte' : [
 		'Buenavista','Butuan','Cabadbaran','Carmen','Jabonga','Kitcharao',
 		'Las Nieves','Magallanes','Nasipit','Remedios T. Romualdez','Santiago',
