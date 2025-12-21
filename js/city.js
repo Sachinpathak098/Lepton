@@ -4,7 +4,7 @@
 * @ version 1.0.0
 * @ author Marvic R. Macalintal
 */ 
- var cities = { 
+ var cities = {  
 	'Abra'  : [  
 		'Bangued','Boliney','Bucay','Bucloc','Daguioman','Danglas',  
 		'Dolores','La Paz','Lacub','Lagangilang','Lagayan','Langiden',
