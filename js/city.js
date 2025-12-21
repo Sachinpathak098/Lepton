@@ -5,7 +5,7 @@
 * @ author Marvic R. Macalintal
 */ 
  var cities = { 
-	'Abra'  : [ 
+	'Abra'  : [  
 		'Bangued','Boliney','Bucay','Bucloc','Daguioman','Danglas',  
 		'Dolores','La Paz','Lacub','Lagangilang','Lagayan','Langiden',
 		'Licuan-Baay','Luba','Malibcong','Manabo','Peñarrubia','Pidigan',
