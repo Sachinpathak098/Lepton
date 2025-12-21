@@ -1,5 +1,5 @@
 /**
-* Philippine Provinces & Cities/Municipalities on HTML Dropdown
+* Philippine Provinces & Cities/Municipalities on HTML Dropdown 
 *
 * @ version 1.0.0
 * @ author Marvic R. Macalintal
