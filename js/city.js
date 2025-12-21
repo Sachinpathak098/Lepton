@@ -12,7 +12,7 @@
 		'Pilar','Sallapadan','San Isidro','San Juan','San Quintin','Tayum',
 		'Tineg','Tubo','Villaviciosa'
 		], 
-	'Agusan del Norte' : [
+	'Agusan del Norte' : [ 
 		'Buenavista','Butuan','Cabadbaran','Carmen','Jabonga','Kitcharao',
 		'Las Nieves','Magallanes','Nasipit','Remedios T. Romualdez','Santiago',
 		'Tubay'
