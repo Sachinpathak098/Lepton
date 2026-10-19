@@ -2,7 +2,7 @@
 <?php if(logged_in()){ ?>
           <script type="text/javascript">
             window.location = "index.php"; 
-          </script>
+          </script> 
     <?php
     } ?>
 <!DOCTYPE html>
