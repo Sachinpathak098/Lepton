@@ -1,4 +1,4 @@
-<?php require('session.php');?>
+<?php require('session.php');?> 
 <?php if(logged_in()){ ?>
           <script type="text/javascript">
             window.location = "index.php";
