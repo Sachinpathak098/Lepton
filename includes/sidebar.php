@@ -6,7 +6,7 @@
 <html lang="en"> 
 
 <head>
-  <style type="text/css">
+  <style type="text/css"> 
 #overlay {
   position: fixed;
   display: none;
