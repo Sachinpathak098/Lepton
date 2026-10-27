@@ -4,7 +4,7 @@ $sqlforjob = "SELECT DISTINCT JOB_TITLE, JOB_ID FROM job order by JOB_ID asc";
 $result = mysqli_query($db, $sqlforjob) or die ("Bad SQL: $sqlforjob");
 
 $job = "<select class='form-control' name='jobs' required>
-        <option value='' disabled selected hidden>Select Job</option>";
+        <option value='' disabled selected hidden>Select Job</option>"; 
   while ($row = mysqli_fetch_assoc($result)) {
     $job .= "<option value='".$row['JOB_ID']."'>".$row['JOB_TITLE']."</option>";
   }
